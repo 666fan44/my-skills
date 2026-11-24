@@ -1,0 +1,4 @@
+interface:
+  display_name: "照片旅行日志"
+  short_description: "从旅行照片提取细节，在白纸上放大并自然衔接成有留白的创意海报"
+  default_prompt: "用 $photo-travel-journal 把这张照片做成一页创意旅行日志。"
